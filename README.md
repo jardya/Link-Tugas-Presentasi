@@ -1,7 +1,7 @@
 ```
-Nama : Vinna Jardyagustin
-NIM : 19.01.013.064
-Kelas : C
+Nama      : Vinna Jardyagustin
+NIM       : 19.01.013.064
+Kelas     : Sains Data C
 ```
 
 Link Tugas Pertama      : https://youtu.be/gJREVRvkIms
